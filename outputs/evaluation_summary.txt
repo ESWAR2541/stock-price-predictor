@@ -1,0 +1,9 @@
+STOCK PRICE PREDICTION - EVALUATION SUMMARY
+=============================================
+
+Model MAE (return): 0.0117 (1.17%)
+Naive baseline MAE: 0.0109 (1.09%)
+R-squared: -0.102
+Directional accuracy: 51.8%
+
+Latest prediction (2026-07-14): $313.41 (-0.46%)
